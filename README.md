@@ -1,5 +1,5 @@
-# Project Name: BoomBikes Bike Sharing Case Study
-> This assignment aims to give an idea about how to build a multiple linear regression model. Specifically, we have to build a multiple linear regression model for the prediction of demand for shared bikes.
+# Project Name: 
+> BoomBikes Bike Sharing Case Study
 
 
 ## Table of Contents
