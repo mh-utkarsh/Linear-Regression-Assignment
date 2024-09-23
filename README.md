@@ -19,17 +19,15 @@
 - Dataset: The data set is a csv file with the daywise rental count of the BoomBikes bike sharing company along with relevant features.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Demand of bikes depend on Year, Workingday, Temperature, Wind speed, Seasons- Spring, Summer, Winter, Months- July & September, Weekday- saturday, Weather -Light_snowrain, Misty.
 
 ## Technologies Used
 - NumPy Version :  1.26.4
 - Pandas Version :  2.1.4
 - Matplotlib Version :  3.8.0
 - Seaborn Version :  0.13.2
-- Plotly Version :  5.9.0
+- Statsmodels Version :  0.14.0
+- Sklearn Version : 1.2.2
 
 ## Acknowledgements
 - This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
